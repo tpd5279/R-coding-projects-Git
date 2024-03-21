@@ -1,7 +1,9 @@
-#Use Of Wikipedia As A Teaching Resource
+**Use Of Wikipedia As A Teaching Resource**
+
 Analysis of a data set on university faculty perceptions and practices of using Wikipedia as a teaching resource.
 
-#Summary
+**Summary**
+
 The objective of the data analysis is to predict the “use behavior” of Wikipedia by teachers, based on their responses
 to survey questions as well as their ”demographic” attributes (e.g., age, teaching experience, gender, field of study,
 etc.). The data was obtained from a survey sent to part-time and full-time professors at two Spanish universities – 
